@@ -1,0 +1,180 @@
+        <!-- sixth Creator -->
+        <div class="content" id="content06">
+          <div class="content_top clear_fix">
+            <div class="fl_left"><img src="images/img_05.jpg" alt="img_05"></div>
+            <div class="fl_left">
+              <h4>sixth<i class="fas fa-smile"></i><span>팬하기</span></h4>
+              <p>14시간 전</p>
+            </div>
+            <div class="fl_right">
+              <a href="#"><i class="fas fa-ellipsis-v"></i></a>
+            </div>
+          </div>
+          <div class="content_img">
+            <div class="swiper-container swiper02">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <img src="images/img_15.jpg" alt="img_15">
+                </div>
+                <div class="swiper-slide">
+                  <img src="images/img_16.jpg" alt="img_16">
+                </div>
+                <div class="swiper-slide">
+                  <img src="images/img_17.jpg" alt="img_17">
+                </div>
+              </div>
+              <div class="swiper-pagination"></div>
+          </div>
+          </div>
+          <div class="content_bottom">
+            <h4><a class="main_color" href="#">STYLING TIP</a></h4>
+            <p><a href="#">무심하게 <i class="far fa-star"></i></a></p>
+            <div>
+              <a href="#">댓글 30 · 셀렉트 197</a>
+            </div>
+          </div>
+        </div>
+        <!-- Seventh Creator -->
+        <div class="content" id="content07">
+          <div class="content_top clear_fix">
+            <div class="fl_left"><img src="images/img_06.jpg" alt="img_06"></div>
+            <div class="fl_left">
+              <h4>seventh<i class="fas fa-smile"></i><span>팬하기</span></h4>
+              <p>20시간 전</p>
+            </div>
+            <div class="fl_right">
+              <a href="#"><i class="fas fa-ellipsis-v"></i></a>
+            </div>
+          </div>
+          <div class="content_img">
+            <div class="swiper-container swiper02">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <img src="images/img_18.jpg" alt="img_18">
+                </div>
+                <div class="swiper-slide">
+                  <img src="images/img_19.jpg" alt="img_19">
+                </div>
+                <div class="swiper-slide">
+                  <img src="images/img_00.jpg" alt="img_00">
+                </div>
+              </div>
+              <div class="swiper-pagination"></div>
+          </div>
+          </div>
+          <div class="content_bottom">
+            <h4><a class="main_color" href="#">STYLING TIP</a></h4>
+            <p><a href="#">청바지 핏 <i class="fas fa-socks"></i></a></p>
+            <div>
+              <a href="#">댓글 55 · 셀렉트 225</a>
+            </div>
+          </div>
+        </div>
+        <!-- Eighth Creator -->
+        <div class="content" id="content08">
+          <div class="content_top clear_fix">
+            <div class="fl_left"><img src="images/img_07.jpg" alt="img_07"></div>
+            <div class="fl_left">
+              <h4>eighth<i class="fas fa-smile"></i><span>팬하기</span></h4>
+              <p>22시간 전</p>
+            </div>
+            <div class="fl_right">
+              <a href="#"><i class="fas fa-ellipsis-v"></i></a>
+            </div>
+          </div>
+          <div class="content_img">
+            <div class="swiper-container swiper02">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <img src="images/img_04.jpg" alt="img_04">
+                </div>
+                <div class="swiper-slide">
+                  <img src="images/img_05.jpg" alt="img_05">
+                </div>
+                <div class="swiper-slide">
+                  <img src="images/img_06.jpg" alt="img_06">
+                </div>
+              </div>
+              <div class="swiper-pagination"></div>
+          </div>
+          </div>
+          <div class="content_bottom">
+            <h4><a class="main_color" href="#">STYLING TIP</a></h4>
+            <p><a href="#">블론드 헤어 <i class="fas fa-female"></i></a></p>
+            <div>
+              <a href="#">댓글 79 · 셀렉트 392</a>
+            </div>
+          </div>
+        </div>
+        <!-- Ninth Creator -->
+        <div class="content" id="content09">
+          <div class="content_top clear_fix">
+            <div class="fl_left"><img src="images/img_08.jpg" alt="img_08"></div>
+            <div class="fl_left">
+              <h4>ninth<i class="fas fa-smile"></i><span>팬하기</span></h4>
+              <p>1일 전</p>
+            </div>
+            <div class="fl_right">
+              <a href="#"><i class="fas fa-ellipsis-v"></i></a>
+            </div>
+          </div>
+          <div class="content_img">
+            <div class="swiper-container swiper02">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <img src="images/img_07.jpg" alt="img_07">
+                </div>
+                <div class="swiper-slide">
+                  <img src="images/img_08.jpg" alt="img_08">
+                </div>
+                <div class="swiper-slide">
+                  <img src="images/img_09.jpg" alt="img_09">
+                </div>
+              </div>
+              <div class="swiper-pagination"></div>
+          </div>
+          </div>
+          <div class="content_bottom">
+            <h4><a class="main_color" href="#">STYLING TIP</a></h4>
+            <p><a href="#">화사한 컬러</i></a></p>
+            <div>
+              <a href="#">댓글 99 · 셀렉트 471</a>
+            </div>
+          </div>
+        </div>
+        <!-- 10th Creator -->
+        <div class="content" id="content10">
+          <div class="content_top clear_fix">
+            <div class="fl_left"><img src="images/img_09.jpg" alt="img_09"></div>
+            <div class="fl_left">
+              <h4>10th<i class="fas fa-smile"></i><span>팬하기</span></h4>
+              <p>1일 전</p>
+            </div>
+            <div class="fl_right">
+              <a href="#"><i class="fas fa-ellipsis-v"></i></a>
+            </div>
+          </div>
+          <div class="content_img">
+            <div class="swiper-container swiper02">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <img src="images/img_10.jpg" alt="img_10">
+                </div>
+                <div class="swiper-slide">
+                  <img src="images/img_11.jpg" alt="img_11">
+                </div>
+                <div class="swiper-slide">
+                  <img src="images/img_12.jpg" alt="img_12">
+                </div>
+              </div>
+              <div class="swiper-pagination"></div>
+          </div>
+          </div>
+          <div class="content_bottom">
+            <h4><a class="main_color" href="#">STYLING TIP</a></h4>
+            <p><a href="#">곱슬머리 <i class="fab fa-keybase"></i></i></a></p>
+            <div>
+              <a href="#">댓글 170 · 셀렉트 665</a>
+            </div>
+          </div>
+        </div>
